@@ -3,6 +3,7 @@
 my name is maria eduarda
 
 -estou estudando no Alura
+
 -estou me desenvolvendo na linguagem JavaScript
 
 ### vocẽ pode entrar em contato pode email 📫
